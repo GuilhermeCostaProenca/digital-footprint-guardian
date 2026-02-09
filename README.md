@@ -1,6 +1,6 @@
-# Zelador Digital
+﻿# Zelador Digital
 
-[![CI](https://github.com/GuilhermeCostaProenca/zelador-digital/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/zelador-digital/actions/workflows/ci.yml)
+[![CI](https://github.com/GuilhermeCostaProenca/digital-footprint-guardian/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/digital-footprint-guardian/actions/workflows/ci.yml)
 
 Digital product repository focused on a real market pain with portfolio-grade execution.
 
@@ -38,3 +38,4 @@ Next.js, Node API, PostgreSQL, integracoes de email e breach monitoring
 
 ## Main risks
 Dependencia de provedores externos e confianca do usuario
+
